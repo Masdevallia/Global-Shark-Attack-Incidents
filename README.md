@@ -1,1 +1,3 @@
-# Global_Shark_Attack_Incidents
+# Global Shark Attack Incidents
+
+Project: Data Cleaning and Manipulation with Pandas
