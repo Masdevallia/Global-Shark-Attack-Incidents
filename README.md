@@ -17,6 +17,6 @@ I have started with this messy data set: [Shark Attack](https://www.kaggle.com/t
 
 ### Obstacles encountered and lessons learned:
 
-The biggest obstacle I encountered was to deal with missing values. I learned that when introducing NAs into an existing Series or DataFrame via reindex() or some other means, boolean and integer types are promoted to a different dtype in order to store the NAs. More information about this topic can be found [here.](https://pandas.pydata.org/pandas-docs/stable/user_guide/gotchas.html)
+The biggest obstacle I encountered was to deal with missing values. I learned that when introducing NAs into an existing Series or DataFrame via reindex() or some other means, boolean and integer types are promoted to a different dtype in order to store the NAs. More information about this topic can be found [here](https://pandas.pydata.org/pandas-docs/stable/user_guide/gotchas.html).
 
 I also had to invest some time in cleaning up the 'Activity' variable in order to get as much information from it as possible.
