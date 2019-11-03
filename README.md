@@ -18,4 +18,4 @@ I have started with this messy data set: [Shark Attack](https://www.kaggle.com/t
 
 The biggest obstacle I have encountered has been related to dealing with missing values. I haver learned that when introducing NAs into an existing Series or DataFrame via reindex() or some other means, boolean and integer types will be promoted to a different dtype in order to store the NAs. More information about this topic can be found [here.](https://pandas.pydata.org/pandas-docs/stable/user_guide/gotchas.html)
 
-I have also had to invest some time in cleaning the 'Activity' variable in order to get as much information as possible from it.
+I have also had to invest some time in cleaning the 'Activity' variable in order to get as much information from it as possible.
