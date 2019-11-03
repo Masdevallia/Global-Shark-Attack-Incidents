@@ -4,6 +4,7 @@
 
 ![Don't think sharks are adorable?](/images/shark.jpeg)
 
+## 
 
 I have started with this messy data set: [Shark Attack](https://www.kaggle.com/teajay/global-shark-attacks/version/1). I have imported it, used my data wrangling skills to clean it up, prepared it to be analyzed, and then exported it as a clean CSV data file.
 
@@ -16,6 +17,6 @@ I have started with this messy data set: [Shark Attack](https://www.kaggle.com/t
 
 ### Obstacles encountered and lessons learned:
 
-The biggest obstacle I have encountered has been related to dealing with missing values. I haver learned that when introducing NAs into an existing Series or DataFrame via reindex() or some other means, boolean and integer types will be promoted to a different dtype in order to store the NAs. More information about this topic can be found [here.](https://pandas.pydata.org/pandas-docs/stable/user_guide/gotchas.html)
+The biggest obstacle I encountered was to deal with missing values. I learned that when introducing NAs into an existing Series or DataFrame via reindex() or some other means, boolean and integer types are promoted to a different dtype in order to store the NAs. More information about this topic can be found [here.](https://pandas.pydata.org/pandas-docs/stable/user_guide/gotchas.html)
 
-I have also had to invest some time in cleaning the 'Activity' variable in order to get as much information from it as possible.
+I also had to invest some time in cleaning up the 'Activity' variable in order to get as much information from it as possible.
