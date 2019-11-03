@@ -9,10 +9,10 @@ I have started with this messy data set: [Shark Attack](https://www.kaggle.com/t
 
 ### Deliverables:
 
-* The initial messy data set can be found in the folder *Input*.
+* The initial messy data set can be found in the *Input* folder.
 * The Jupyter Notebook *data-wrangling.ipynb* contains all Python code and commands used in the importing, cleaning, manipulation, and exporting of the data set.
-* The cleaned CSV data file containing the results of my data wrangling work can be found in the folder *Output*.
-* The folder *src* contains the file *functions.py*, which stores some own functions I have imported and used at *data-wrangling.ipynb*.
+* The cleaned CSV data file containing the results of my data wrangling work can be found in the *Output* folder.
+* The *src* folder contains the file *functions.py*, which stores some own functions I have imported and used at *data-wrangling.ipynb*.
 
 ### Obstacles encountered and lessons learned:
 
