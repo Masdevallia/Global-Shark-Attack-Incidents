@@ -47,8 +47,8 @@ For more information about methods, see the file *data-wrangling.ipynb*.
 * Humans get into the sea in any month of the year. ✔️
 * There are more registered attacks now than in the past. ✔️
 * Sharks mostly bite victims who are swimming, surfing, fishing or diving. ✔️
-* Sharks mostly attack men. ✔️
-* Most attacks are unprovoked. ❌
+* Sharks mostly attack men (89.2% male vs. 10.8% female). ✔️
+* Most attacks are unprovoked (89.8% unprovoked vs. 10.2% provoked). ❌
 * Sharks mostly attack young people (maximum at about 20 years old). ✔️
 
 ### Deliverables:
