@@ -8,6 +8,35 @@
 
 I have started with this messy data set: [Shark Attack](https://www.kaggle.com/teajay/global-shark-attacks/version/1). I have imported it, used my data wrangling skills to clean it up, prepared it to be analyzed, and then exported it as a clean CSV data file.
 
+### Main goal and hypotheses:
+
+As a biologist, my goal with this project is to demonstrate that sharks are adorable creatures and that humans seek to be eaten by them for some strange reasons.
+
+**My hypotheses:**
+
+* Most attacks are not **fatal** because, you know, sharks are cute.
+* Humans get into the sea in any **month** of the year.
+* With each passing **year** (and **century**), more people go swimming in the sea.
+* Humans do some weird stuff (**activities**) to make it easier for sharks to locate them.
+* Are you a woman (female **sex**)? [Good news: you're probably not going to get bitten by a shark](https://www.smh.com.au/environment/conservation/fact-sharks-pretty-much-only-bite-men-heres-why-20151029-gklnxo.html).
+* Most attacks are of **type** provoked. If plots say otherwise, they lie.
+* [It is ok to feed sharks with tender meat](https://www.elmundotoday.com/2010/04/un-colegio-de-miami-lleva-a-sus-alumnos-conflictivos-a-ver-de-cerca-a-los-tiburones/) (young **age** people).
+* USA will be the most affected **country**, [because it is the cradle of jazz](https://www.theguardian.com/music/2018/may/10/sharks-love-jazz-macquarie-university-sydney).
+
+### Methods:
+
+...
+
+### Results:
+
+* Most attacks are not fatal (73.6% vs. 26.4%). ✔️
+* Humans get into the sea in any month of the year. ✔️
+* There are more registered attacks now than in the past. ✔️
+* Sharks mostly bite victims who are swimming, surfing, fishing or diving. ✔️
+* Sharks mostly attack men. ✔️
+* Most attacks are unprovoked. ❌
+* Sharks mostly attack young people (maximum at about 20 years old). ✔️
+
 ### Deliverables:
 
 * The initial messy data set can be found in the *Input* folder.
