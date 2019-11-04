@@ -28,7 +28,7 @@ As a biologist, my goal with this project was to demonstrate that sharks are ado
 I first imported the packages I needed. Then, I imported the dataframe using Pandas with the correct encoding.
 
 Afterwards, I took a first look at the data. The initial messy data set had 24 columns and 5992 rows. I decided to work with the following variables:
-1. Fatal(Y/N)
+1. Fatal (Y/N)
 1. Month
 1. Year
 1. Century
