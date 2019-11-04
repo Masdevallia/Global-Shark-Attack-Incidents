@@ -6,11 +6,11 @@
 
 ## 
 
-I have started with this messy data set: [Shark Attack](https://www.kaggle.com/teajay/global-shark-attacks/version/1). I have imported it, used my data wrangling skills to clean it up, prepared it to be analyzed, and then exported it as a clean CSV data file.
+I started with this messy data set: [Shark Attack](https://www.kaggle.com/teajay/global-shark-attacks/version/1). I imported it, used my data wrangling skills to clean it up, prepared it to be analyzed, and then exported it as a clean CSV data file.
 
 ### Main goal and hypotheses:
 
-As a biologist, my goal with this project is to demonstrate that sharks are adorable creatures and that humans seek to be eaten by them for some strange reasons.
+As a biologist, my goal with this project was to demonstrate that sharks are adorable creatures and that humans seek to be eaten by them for some strange reasons.
 
 **My hypotheses:**
 
@@ -25,7 +25,21 @@ As a biologist, my goal with this project is to demonstrate that sharks are ador
 
 ### Methods:
 
-...
+I first imported the packages I needed. Then, I imported the dataframe using Pandas with the correct encoding.
+
+Afterwards, I took a first look at the data. The initial messy data set had 24 columns and 5992 rows. I decided to work with the following variables:
+1. Fatal(Y/N)
+1. Month
+1. Year
+1. Century
+1. Activities
+1. Sex
+1. Type
+1. Country
+
+I cleaned them up and performed some graphical representations.
+
+For more information about methods, see the file *data-wrangling.ipynb*.
 
 ### Results:
 
